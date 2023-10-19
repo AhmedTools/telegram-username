@@ -166,9 +166,9 @@ def clientX():
 def work():
 	session = clientX()
 	if not path.exists('banned4.txt'):
-		with open('banned4.txt','w') as new
+		with open('banned4.txt','w') as new:pass
 	if not path.exists('flood.txt'):
-		with open('flood.txt','w') as new	
+		with open('flood.txt','w') as new:pass
 	while True:
 		username = usernameG()
 		with open('banned4.txt', 'r') as file:
