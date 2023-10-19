@@ -13,16 +13,12 @@ Free Phalastine 🇵🇸
 from os import system, name
 from time import sleep
 from random import choice
+from base64 import b64decode
 try:
     from requests import get
 except:
     system('pip install requests')
     from requests import get
-try:
-    from base64 import b64decode
-except:
-    system('pip install base64')
-    from base64 import b64decode
 try:
     from telethon import TelegramClient, sync, errors, functions, types
     from telethon.tl.functions.account import CheckUsernameRequest, UpdateUsernameRequest
