@@ -10,7 +10,7 @@ flood username save in flood.txt and send in "Saved messages" in telegram .
 - -
 Free Phalastine 🇵🇸
 '''
-from os import system, name
+from os import system, name, path
 from time import sleep
 from random import choice
 from base64 import b64decode
@@ -165,6 +165,10 @@ def clientX():
 # start tool
 def work():
 	session = clientX()
+	if not path.exists('banned4.txt'):
+		with open('banned4.txt','w') as new
+	if not path.exists('flood.txt'):
+		with open('flood.txt','w') as new	
 	while True:
 		username = usernameG()
 		with open('banned4.txt', 'r') as file:
