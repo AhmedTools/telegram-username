@@ -1,4 +1,4 @@
-# Telegram Username Checker
+## Telegram Username Checker
 ***
 this tool for checking telegram username [ without Band ] and claim it in channel .
 ***
@@ -8,3 +8,4 @@ this tool for checking telegram username [ without Band ] and claim it in channe
 ***
 * [My Telegram](https://t.me/u_l_w) .
 * [My Github](https://github.com/AhmedTools) .
+* Make 
