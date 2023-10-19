@@ -1,0 +1,5 @@
+requests==2.31.0
+telethon==1.30.3
+beautifulsoup==4.12.2
+fake_useragent==1.2.1
+datetime==5.2
