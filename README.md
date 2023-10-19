@@ -8,4 +8,4 @@ this tool for checking telegram username [ without Band ] and claim it in channe
 ***
 * [My Telegram](https://t.me/u_l_w) .
 * [My Github](https://github.com/AhmedTools) .
-* [My PayPal](paypal.me/foarl) .
+* [My PayPal](https://paypal.me/foarl) .
